@@ -39,9 +39,9 @@ The game is developed using UNITY game development software, with Python (OpenCV
 HOW TO RUN THE PROJECT
 
 1.Run python file(Opencv code.py)
-  a. use pip install opencv
-  b. pip install tkinter and import other dependencies 
-  c. now select color of object from window.
+a. use pip install opencv
+b. pip install tkinter and import other dependencies 
+c. now select color of object from window.
   
 2.Start the game in unity software
   
