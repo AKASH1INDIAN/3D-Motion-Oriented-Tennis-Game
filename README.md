@@ -29,5 +29,21 @@ The game is developed using UNITY game development software, with Python (OpenCV
 ![image](https://github.com/AKASH1INDIAN/3D-Motion-Oriented-Tennis-Game/assets/94530512/88b2f9a9-c307-40ec-9c51-a952a21fb940)
 
 
+
+
+HOW TO RUN THE PROJECT
+
+1.Run python file(Opencv code.py)
+  a. use pip install opencv
+  b. pip install tkinter and import other dependencies 
+  c. now select color of object from window.
+  
+2.Start the game in unity software
+  
+NOTE first run python then unity
+
+
+
+
 CREDIT'S
 ...
